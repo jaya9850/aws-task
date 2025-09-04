@@ -1,2 +1,1 @@
-
-![Splunk Architecture](images/generated-image.png)
+![Splunk Architecture](generated-image.png)
