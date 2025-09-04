@@ -4,3 +4,6 @@
 ## Splunk Search Example
 
 ![Splunk Search Screenshot](images/Screenshot%202025-09-04%20122739.png)
+
+
+![Splunk Dashboard Screenshot](images/Screenshot%202025-09-04%20122759.png)
